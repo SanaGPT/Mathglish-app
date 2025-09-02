@@ -1,2 +1,24 @@
-# Mathglish-app
-a Persian tool for learning 7th grade math &amp; learning English made by Python
+"math & English educational application"
+a desktop application made by python for learning 7th grade level math and a lietner environment for learning English
+
+**features
+math:
+-solving linear, quadric and simple cubic equations
+-aquiring GCD & LCM 
+-aquiring second root & power
+-computing prime numbers & divisor counter
+English:
+-pronouncing words by pyttsx3
+-storing words
+-adding custome meaning & example for each word.
+Graphics:
+-Persian-language(my native language)
+-made for desktop solely
+-made by tkinter
+
+**how to run
+requirements you must install:
+-tkinter
+-pyttsx3
+-sympy
+-json & os
