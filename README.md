@@ -22,3 +22,6 @@ requirements you must install:
 -pyttsx3
 -sympy
 -json & os
+
+**story behind it
+well, It is the first app I programmed. this was for a school competition (although I could not attend due to my nationaliy)
