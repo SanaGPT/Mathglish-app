@@ -1,27 +1,21 @@
-"math & English educational application"
-a desktop application made by python for learning 7th grade level math and a lietner environment for learning English
+Title: Mathglish: Bridging Mathematics and English for Young Learners
 
-**features
-math:
--solving linear, quadric and simple cubic equations
--aquiring GCD & LCM 
--aquiring second root & power
--computing prime numbers & divisor counter
-English:
--pronouncing words by pyttsx3
--storing words
--adding custome meaning & example for each word.
-Graphics:
--Persian-language(my native language)
--made for desktop solely
--made by tkinter
+Overview
+Mathglish is an interactive learning app designed to help students practice mathematics while improving their English skills. By blending problem-solving with bilingual explanations, the app supports children in multilingual environments where language often becomes a barrier to STEM learning.
 
-**how to run
-requirements you must install:
--tkinter
--pyttsx3
--sympy
--json & os
+Key Features :
 
-**story behind it
-well, It is the first app I programmed. this was for a school competition (although I could not attend due to my nationaliy)
+Dual-language math problems (English + local language)
+
+Adaptive difficulty based on performance
+
+Progress tracking for both language and math comprehension
+
+Tech Stack
+
+Python, Flask, SQLite
+
+Frontend: simple HTML/CSS/JS
+
+Impact :
+This project was motivated by the needs of young learners in refugee and low-resource communities. It demonstrates how technology can lower barriers to STEM education.
